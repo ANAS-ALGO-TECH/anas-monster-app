@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/anas-monster-app/static/css/main.4d795c53.chunk.css",
+    "main.js": "/anas-monster-app/static/js/main.33462318.chunk.js",
+    "main.js.map": "/anas-monster-app/static/js/main.33462318.chunk.js.map",
+    "runtime-main.js": "/anas-monster-app/static/js/runtime-main.0018424f.js",
+    "runtime-main.js.map": "/anas-monster-app/static/js/runtime-main.0018424f.js.map",
+    "static/js/2.75845002.chunk.js": "/anas-monster-app/static/js/2.75845002.chunk.js",
+    "static/js/2.75845002.chunk.js.map": "/anas-monster-app/static/js/2.75845002.chunk.js.map",
+    "static/js/3.817c9385.chunk.js": "/anas-monster-app/static/js/3.817c9385.chunk.js",
+    "static/js/3.817c9385.chunk.js.map": "/anas-monster-app/static/js/3.817c9385.chunk.js.map",
+    "index.html": "/anas-monster-app/index.html",
+    "static/css/main.4d795c53.chunk.css.map": "/anas-monster-app/static/css/main.4d795c53.chunk.css.map",
+    "static/js/2.75845002.chunk.js.LICENSE.txt": "/anas-monster-app/static/js/2.75845002.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0018424f.js",
+    "static/js/2.75845002.chunk.js",
+    "static/css/main.4d795c53.chunk.css",
+    "static/js/main.33462318.chunk.js"
+  ]
+}
